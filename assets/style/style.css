@@ -1,0 +1,25 @@
+
+#heading {
+    background-color: #e4f9f5;
+    text-align: center;
+}
+h1 {
+    font-family: Cedarville Cursive;
+    font-size: 5rem;
+    text-align: center;
+    margin-top: 150px;
+    color: #09c5a3;
+}
+h2 {
+    color:#09c5a3
+}
+.pro {
+    text-decoration: underline;
+}
+.profile_sec {
+    display: flex;
+    justify-content: center;
+}
+button {
+    color:white
+}
